@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Ankit Upadhyay</h1>
-<h3 align="center">A passionate developer from India, I’m skilled in full-stack development and data science, always eager to learn and create innovative solutions!</h3>
+<h3 align="center">A passionate developer from India, I’m skilled in full-stack development and Machine, always eager to learn and create innovative solutions!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit-1204&label=Profile%20views&color=0e75b6&style=flat" alt="ankit-1204" /> </p>
 
